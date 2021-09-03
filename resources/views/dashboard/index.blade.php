@@ -7,7 +7,7 @@
 </div>
 <div class="panel-body">
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
             <div class="metric">
                 <span class="icon"><i class="fa fa-users"></i></span>
                 <p>
@@ -16,7 +16,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
             <div class="metric">
                 <span class="icon"><i class="fa fa-line-chart"></i></span>
                 <p>
@@ -25,7 +25,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
             <div class="metric">
                 <span class="icon"><i class="fa fa-credit-card"></i></span>
                 <p>
