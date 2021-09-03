@@ -25,6 +25,8 @@
                 </p>
             </div>
         </div>
+    </div>
+    <div class="row">
         <div class="col-md-6">
             <div class="metric">
                 <span class="icon"><i class="fa fa-credit-card"></i></span>
@@ -34,17 +36,6 @@
                 </p>
             </div>
         </div>
-    </div>
-    {{-- <div class="row">
-        <div class="col-md-6">
-            <div class="metric">
-                <span class="icon"><i class="fa fa-shopping-cart"></i></span>
-                <p>
-                    <span class="number">1,252</span>
-                    <span class="title">Total Transaksi</span>
-                </p>
-            </div>
-        </div>--}}
         <div class="col-md-6">
             <div class="metric">
                 <span class="icon"><i class="fa fa-calendar"></i></span>
